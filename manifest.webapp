@@ -1,7 +1,7 @@
 {
   "name": "Blog de Norelys",
   "description": "este es mi blog ^^",
-  "icons": {"128": "/b.dryicons.com/images/icon_sets/coquette_part_4_icons_set/png/128x128/palette.png"},
+  "icons": {"128": "http://k06.kn3.net/3AEA2E9C5.png"},
   "version": "0.1",
   "launch_path": "/index.html",
   "developer": {
